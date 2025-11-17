@@ -117,7 +117,6 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[KRR](https://github.com/robusta-dev/krr)** - CLI tool for optimizing Kubernetes resource requests.
 - **[Kube-Resource-Report](https://github.com/hjacobs/kube-resource-report)** - Kubernetes cluster resource usage reports.
 - **[Cast.ai](https://cast.ai)** - Kubernetes cost optimization with automated rightsizing.
-- **[Kubecost](https://www.kubecost.com)** - Real-time Kubernetes cost monitoring and optimization.
 - **[PerfectScale](https://www.perfectscale.io)** - Kubernetes optimization with autonomous rightsizing.
 - **[StormForge Optimize Live](https://www.stormforge.io/optimize-live/)** - ML-driven Kubernetes resource optimization.
 - **[Spot Ocean](https://spot.io/product/ocean/)** - Kubernetes infrastructure automation for cost optimization.
