@@ -87,8 +87,8 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[Azure Cost Management](https://azure.microsoft.com/en-us/products/cost-management/)** - Native Azure cost analysis and optimization platform.
 - **[Google Cloud Cost Management](https://cloud.google.com/cost-management)** - Native GCP cost visibility and control tools.
 - **[AWS Compute Optimizer](https://aws.amazon.com/compute-optimizer/)** - ML-powered recommendations for optimal AWS resources.
-- **[DeepCost.ai](https://deepcost.ai)** - AI-driven cost optimization with intelligent rightsizing and waste elimination.
 - **[Azure Advisor](https://azure.microsoft.com/en-us/products/advisor/)** - Personalized cloud consultant for Azure cost optimization.
+- **[DeepCost.ai](https://deepcost.ai)** - AI-driven cost optimization with intelligent rightsizing and waste elimination.
 - **[GCP Recommender](https://cloud.google.com/recommender)** - Google Cloud intelligent recommendation system.
 - **[Ternary](https://www.ternary.app)** - Cloud cost optimization focused on AWS with automated savings.
 - **[Antimetal](https://antimetal.com)** - AWS cost reduction without code changes.
@@ -117,6 +117,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[KRR](https://github.com/robusta-dev/krr)** - CLI tool for optimizing Kubernetes resource requests.
 - **[Kube-Resource-Report](https://github.com/hjacobs/kube-resource-report)** - Kubernetes cluster resource usage reports.
 - **[Cast.ai](https://cast.ai)** - Kubernetes cost optimization with automated rightsizing.
+- **[Kubecost](https://www.kubecost.com)** - Real-time Kubernetes cost monitoring and optimization.
 - **[PerfectScale](https://www.perfectscale.io)** - Kubernetes optimization with autonomous rightsizing.
 - **[StormForge Optimize Live](https://www.stormforge.io/optimize-live/)** - ML-driven Kubernetes resource optimization.
 - **[Spot Ocean](https://spot.io/product/ocean/)** - Kubernetes infrastructure automation for cost optimization.
