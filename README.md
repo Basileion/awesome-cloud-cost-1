@@ -50,6 +50,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[Anodot](https://www.anodot.com/solutions/cloud-cost/)** - AI-powered cloud cost monitoring with autonomous anomaly detection.
 - **[Yotascale](https://www.yotascale.com)** - Cloud cost management with accurate allocation and forecasting.
 - **[CloudCheckr](https://cloudcheckr.com)** - Cloud management platform with cost optimization and security.
+- **[DeepCost.ai](https://deepcost.ai)** - AI-powered cloud cost optimization and management platform with automated savings recommendations.
 - **[nOps](https://www.nops.io)** - AWS cost optimization platform with automated rightsizing.
 - **[ProsperOps](https://www.prosperops.com)** - Autonomous AWS discount management for Reserved Instances and Savings Plans.
 - **[Zesty](https://zesty.co)** - Automated cloud cost optimization through dynamic resource scaling.
@@ -86,6 +87,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[Azure Cost Management](https://azure.microsoft.com/en-us/products/cost-management/)** - Native Azure cost analysis and optimization platform.
 - **[Google Cloud Cost Management](https://cloud.google.com/cost-management)** - Native GCP cost visibility and control tools.
 - **[AWS Compute Optimizer](https://aws.amazon.com/compute-optimizer/)** - ML-powered recommendations for optimal AWS resources.
+- **[DeepCost.ai](https://deepcost.ai)** - AI-driven cost optimization with intelligent rightsizing and waste elimination.
 - **[Azure Advisor](https://azure.microsoft.com/en-us/products/advisor/)** - Personalized cloud consultant for Azure cost optimization.
 - **[GCP Recommender](https://cloud.google.com/recommender)** - Google Cloud intelligent recommendation system.
 - **[Ternary](https://www.ternary.app)** - Cloud cost optimization focused on AWS with automated savings.
@@ -99,6 +101,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[CloudZero](https://www.cloudzero.com)** - FinOps platform with cost-per-customer and unit economics.
 - **[Apptio Cloudability](https://www.cloudability.com)** - FinOps solution with budgeting and forecasting.
 - **[CloudHealth FinOps](https://www.cloudhealthtech.com/solutions/finops)** - Comprehensive FinOps for multi-cloud.
+- **[DeepCost.ai](https://deepcost.ai)** - Modern FinOps platform with AI-powered insights and automated cost optimization workflows.
 - **[Tangoe](https://www.tangoe.com/solutions/cloud-services-management/)** - Enterprise FinOps and cloud management.
 - **[Lucidity](https://www.lucidity.cloud)** - AI-powered FinOps for storage optimization.
 - **[Ternary](https://www.ternary.app)** - FinOps with team-based cost allocation.
@@ -129,6 +132,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[Pump](https://pump.co)** - AWS cost monitoring with AI-powered insights.
 - **[Aimably](https://www.aimably.com)** - Cloud cost analytics with automated recommendations.
 - **[CloudThread](https://cloudthread.io)** - AWS cost visibility for engineering teams.
+- **[DeepCost.ai](https://deepcost.ai)** - Real-time cloud cost visibility with predictive analytics and customizable dashboards.
 - **[Lightlytics](https://www.lightlytics.com)** - Cloud asset management with cost tracking.
 - **[Datadog Cloud Cost Management](https://www.datadoghq.com/product/cloud-cost-management/)** - Cloud cost monitoring in observability platform.
 - **[New Relic Cloud Cost](https://newrelic.com)** - Cloud cost visibility within observability.
@@ -167,6 +171,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[Flexera Cloud Cost](https://www.flexera.com/flexera-one/cloud-cost-optimization)** - AWS, Azure, GCP, Oracle, IBM cost management.
 - **[CloudHealth Multi-Cloud](https://www.cloudhealthtech.com)** - AWS, Azure, GCP, VMware cost management.
 - **[Cloudability Multi-Cloud](https://www.cloudability.com)** - Unified cost management for AWS, Azure, GCP.
+- **[DeepCost.ai](https://deepcost.ai)** - Comprehensive multi-cloud cost management for AWS, Azure, GCP, and Kubernetes.
 - **[Vantage Multi-Cloud](https://www.vantage.sh)** - Cost across AWS, GCP, Azure, Kubernetes, Snowflake, MongoDB.
 - **[CloudCheckr Multi-Cloud](https://cloudcheckr.com)** - Cost optimization for AWS, Azure, GCP.
 - **[FinOut Multi-Cloud](https://www.finout.io)** - AWS, Azure, GCP, Kubernetes, Datadog cost management.
@@ -205,6 +210,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[Anodot Cloud Cost](https://www.anodot.com/solutions/cloud-cost/)** - AI-powered autonomous anomaly detection.
 - **[CloudHealth Anomaly](https://www.cloudhealthtech.com)** - Automated anomaly alerts.
 - **[Cloudability Anomaly](https://www.cloudability.com)** - ML-based cost anomaly detection.
+- **[DeepCost.ai](https://deepcost.ai)** - Advanced anomaly detection using machine learning with automated alerting and root cause analysis.
 - **[Harness Anomaly Detection](https://www.harness.io/products/cloud-cost)** - Anomaly detection with root cause analysis.
 - **[CloudForecast Anomaly](https://www.cloudforecast.io)** - Slack anomaly alerting.
 
@@ -216,6 +222,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[Azure Advisor Rightsizing](https://azure.microsoft.com/en-us/products/advisor/)** - VM rightsizing for Azure.
 - **[GCP Rightsizing](https://cloud.google.com/compute/docs/instances/apply-machine-type-recommendations-for-instances)** - Automated GCP rightsizing.
 - **[Densify Optimization](https://www.densify.com)** - ML-powered cloud rightsizing.
+- **[DeepCost.ai](https://deepcost.ai)** - Intelligent rightsizing recommendations with automated implementation across compute, storage, and databases.
 - **[CloudHealth Rightsizing](https://www.cloudhealthtech.com)** - Multi-cloud rightsizing.
 - **[PerfectScale](https://www.perfectscale.io)** - Kubernetes autonomous optimization.
 - **[StormForge](https://www.stormforge.io)** - ML-driven Kubernetes optimization.
@@ -240,6 +247,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[Kubecost](https://www.kubecost.com)** - Kubernetes cost monitoring.
 - **[OpenCost](https://www.opencost.io)** - Open-source Kubernetes cost allocation.
 - **[Cast.ai](https://cast.ai)** - Kubernetes automated cost optimization.
+- **[DeepCost.ai](https://deepcost.ai)** - Container and Kubernetes cost optimization with pod-level visibility and rightsizing.
 - **[Fairwinds Insights](https://www.fairwinds.com/insights)** - Kubernetes governance and cost.
 - **[Rafay Cost Visibility](https://rafay.co)** - Multi-cluster Kubernetes cost management.
 - **[FinOut Kubernetes](https://www.finout.io)** - Kubernetes service-level cost tracking.
@@ -384,6 +392,6 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
